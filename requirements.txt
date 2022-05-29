@@ -115,4 +115,4 @@ pycparser==2.20
 pydeck==0.7.0
 SQLAlchemy==1.4.23
 sqlparse==0.4.1
-streamlit==1.0.0
+streamlit==1.9.2
