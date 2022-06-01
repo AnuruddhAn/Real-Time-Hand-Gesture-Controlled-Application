@@ -12,8 +12,3 @@ The proposed system can control the media player from a distance using hand gest
 3. The PyAutoGUI library is used to integrate the Keyboard keys to hand gestures 
 4. A user interface is created using the Streamlit web framework 
 5. A webpage is deployed which contains source files and demo using streamlit.io sharing.
-
-
-#### Web App link: 
-
-https://share.streamlit.io/anuruddhan/real-time-hand-gesture-controlled-application/main/localapp.py
